@@ -3090,11 +3090,13 @@ __metadata:
     "@types/react": "npm:^18.2.6"
     "@types/react-test-renderer": "npm:^18.0.0"
     babel-jest: "npm:^29.6.3"
+    dayjs: "npm:^1.11.10"
     eslint: "npm:^8.19.0"
     jest: "npm:^29.6.3"
     prettier: "npm:2.8.8"
     react: "npm:18.2.0"
     react-native: "npm:0.74.0"
+    react-native-get-location: "npm:^4.0.1"
     react-native-paper: "npm:^5.12.3"
     react-native-safe-area-context: "npm:^4.10.1"
     react-native-screens: "npm:^3.31.1"
@@ -4148,7 +4150,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"dayjs@npm:^1.8.15":
+"dayjs@npm:^1.11.10, dayjs@npm:^1.8.15":
   version: 1.11.10
   resolution: "dayjs@npm:1.11.10"
   checksum: 4de9af50639d47df87f2e15fa36bb07e0f9ed1e9c52c6caa1482788ee9a384d668f1dbd00c54f82aaab163db07d61d2899384b8254da3a9184fc6deca080e2fe
@@ -8131,6 +8133,15 @@ __metadata:
   version: 17.0.2
   resolution: "react-is@npm:17.0.2"
   checksum: 2bdb6b93fbb1820b024b496042cce405c57e2f85e777c9aabd55f9b26d145408f9f74f5934676ffdc46f3dcff656d78413a6e43968e7b3f92eea35b3052e9053
+  languageName: node
+  linkType: hard
+
+"react-native-get-location@npm:^4.0.1":
+  version: 4.0.1
+  resolution: "react-native-get-location@npm:4.0.1"
+  peerDependencies:
+    react-native: ">=0.60"
+  checksum: 72efe1caff06c5b0b946bb5498e1d0003e93da661e67684185c2092d3a551f6a2f06d96f398c973aabd76044735daee9317ce67f1be3ae0fd15ec739bdbc4f44
   languageName: node
   linkType: hard
 

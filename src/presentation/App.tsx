@@ -29,8 +29,6 @@ export const App = () => {
             <Stack.Screen name="auth" component={AuthScreen} />
             <Stack.Screen name="home" component={Home} />
           </Stack.Navigator>
-          {/*<BoxObjectModelScreen />*/}
-          {/*<DimensionScreen />*/}
         </SafeAreaView>
       </PaperProvider>
     </NavigationContainer>
