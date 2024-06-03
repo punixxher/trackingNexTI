@@ -3097,6 +3097,7 @@ __metadata:
     react: "npm:18.2.0"
     react-native: "npm:0.74.0"
     react-native-get-location: "npm:^4.0.1"
+    react-native-keychain: "npm:^8.2.0"
     react-native-paper: "npm:^5.12.3"
     react-native-safe-area-context: "npm:^4.10.1"
     react-native-screens: "npm:^3.31.1"
@@ -8142,6 +8143,13 @@ __metadata:
   peerDependencies:
     react-native: ">=0.60"
   checksum: 72efe1caff06c5b0b946bb5498e1d0003e93da661e67684185c2092d3a551f6a2f06d96f398c973aabd76044735daee9317ce67f1be3ae0fd15ec739bdbc4f44
+  languageName: node
+  linkType: hard
+
+"react-native-keychain@npm:^8.2.0":
+  version: 8.2.0
+  resolution: "react-native-keychain@npm:8.2.0"
+  checksum: 7c32335f673c60bd64576bd21b087cdf601087f1588296367546b5fca15aa83be86723d5414ea90667ebc251237918853f65147de7f8df0707b228e6a13ab829
   languageName: node
   linkType: hard
 
